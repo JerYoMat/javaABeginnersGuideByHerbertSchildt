@@ -1,2 +1,3 @@
 *.class
 .vscode
+./Chapters1to5/*.class
